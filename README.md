@@ -8,3 +8,8 @@ Welcome to my personal neovim configuration! [Neovim](https://neovim.io) is a fo
 cd $HOME/.config
 git clone git@github.com:Riz-0/nvim-config.git nvim
 ```
+
+# Features
+
+- Plugin Management: [lazy.nvim](https://github.com/folke/lazy.nvim)
+- Completion Engine: [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
