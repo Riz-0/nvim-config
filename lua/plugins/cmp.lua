@@ -9,7 +9,7 @@ return {
 
       -- Use Tab and Shift-Tab to cycle between completions
       ['<Tab>'] = { 'select_next', 'fallback' },
-      ['<S-Tab>'] = { 'select_next', 'fallback' },
+      ['<S-Tab>'] = { 'select_prev', 'fallback' },
 
       -- Hide and accept completion menu
       ['<C-e>'] = { 'hide', 'fallback' },
