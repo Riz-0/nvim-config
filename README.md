@@ -13,3 +13,6 @@ git clone git@github.com:Riz-0/nvim-config.git nvim
 
 - Plugin Management: [lazy.nvim](https://github.com/folke/lazy.nvim)
 - Completion Engine: [blink.cmp](https://github.com/saghen/blink.cmp)
+- LSP Installer: [mason.nvim](https://github.com/mason-org/mason.nvim)
+- LSP Integration: [mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim)
+- LSP Configurations: [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
