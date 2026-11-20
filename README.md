@@ -12,4 +12,4 @@ git clone git@github.com:Riz-0/nvim-config.git nvim
 # Features
 
 - Plugin Management: [lazy.nvim](https://github.com/folke/lazy.nvim)
-- Completion Engine: [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+- Completion Engine: [blink.cmp](https://github.com/saghen/blink.cmp)
